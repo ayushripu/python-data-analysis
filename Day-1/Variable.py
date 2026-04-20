@@ -1,0 +1,3 @@
+a = "Ayush"
+
+print(a)

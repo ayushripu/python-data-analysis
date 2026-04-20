@@ -1,0 +1,20 @@
+name = ["Ayush","Ved",'Piyush']
+
+print (name)
+print(name[1])
+name.remove("Ved")
+print(name)
+name.extend("Raju")
+print(name)
+name.clear()
+print(name)
+name.append("Ayush")
+name.append("Ravi")
+name.append("Raju")
+print(name)
+name.count("Ayush")
+print(name)
+name.pop()
+print(name)
+
+print("Ayus")
