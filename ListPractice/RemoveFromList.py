@@ -6,5 +6,5 @@ Name.remove("Piyush")
 print(Name)
 
 #Pop Function
-Name.pop()
+Name.pop(1)
 print(Name)
