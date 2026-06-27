@@ -1,0 +1,34 @@
+fruits = ["Apple", "Mango", "Papaya", "Watermelon"]
+print(fruits)
+
+#Append Function
+fruits.append(7)
+print(fruits) 
+
+
+#Extend Function
+name = ["Ayush", "Piyush", "Ved"]
+fruits.extend(name)
+print(fruits)  
+
+
+#insert Function
+fruits.insert(2, "Delhi")
+print(fruits)
+fruits = ["Apple", "Mango", "Papaya", "Watermelon"]
+print(fruits)
+
+#Append Function
+fruits.append(7)
+print(fruits) 
+
+
+#Extend Function
+name = ["Ayush", "Piyush", "Ved"]
+fruits.extend(name)
+print(fruits)  
+
+
+#insert Function
+fruits.insert(2, "Delhi")
+print(fruits)
