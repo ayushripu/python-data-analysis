@@ -2,7 +2,7 @@ name = "Ayush !"
 
 print(len(name))
 
-name = ("Hello : "+input("What is your Name: "))
+name = ("Hello : "+input("What is your Name:  "))
 
 print(len(name))
 
