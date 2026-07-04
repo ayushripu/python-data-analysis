@@ -8,7 +8,7 @@ for i in range(n):
 print(f"list = {Value}")
 
 find = int(input("Which value do you want to check: "))
-count = 0
+count = 0 
 found  = False
 for i in range(len(Value)-1):
     if find  == Value[i]:
