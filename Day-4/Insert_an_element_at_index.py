@@ -9,7 +9,7 @@ for i in range(a):
 NewValue = int(input("Which Nuumber Do You Want To add: "))
 if index <= len(value):
     value.insert(index, NewValue)
-else:
+else: 
     print("Index Value Out Of Bound")
 
 print(value)
