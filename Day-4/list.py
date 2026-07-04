@@ -15,6 +15,6 @@ print(name)
 name.count("Ayush")
 print(name)
 name.pop()
-print(name)
+print(name) 
 
 print("Ayus")
